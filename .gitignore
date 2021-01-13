@@ -1,3 +1,5 @@
 /New folder/abc.txt
 .env
 /New folder/xyz.txt
+*.sql
+composer.json
